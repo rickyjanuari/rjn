@@ -1,8 +1,8 @@
 {
 	"background_color": "#ffffff",
 	"theme_color": "#333333",
-	"name": "rickyjanuari.com",
-	"short_name": "rickyjanuari.com",
+	"name": "rickyjanuari.com/rjn",
+	"short_name": "rickyjanuari.com/rjn",
 	"display": "minimal-ui",
 	"start_url": "/",
 	"icons": [
