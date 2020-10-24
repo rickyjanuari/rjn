@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+    <url><loc>https://rickyjanuari.com/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://rickyjanuari.com/about/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://rickyjanuari.com/blog/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://rickyjanuari.com/contact/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://rickyjanuari.com/imprint/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://rickyjanuari.com/privacy-policy/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://rickyjanuari.com/recommendations/</loc><priority>0.85</priority></url>
+  
+  
+    <url>
+      <loc>https://rickyjanuari.com/blog/cara-membuat-blog-dengan-hexo-dan-hosting-github-page/</loc>
+      <priority>0.69</priority>
+    </url>
+  
+
+    <url>
+      <loc>https://rickyjanuari.com/blog/gatsby-adalah-generator-situs-statis-yang-menggunakan-react-dan-graph-ql/</loc>
+      <priority>0.69</priority>
+    </url>
+  
+    
+      <url><loc>https://rickyjanuari.com/categories/Programming/</loc><priority>0.85</priority></url>
+        
+    
+    <url><loc>https://rickyjanuari.com/tags/tutorial/</loc><priority>0.85</priority></url>
+      
+
+    <url><loc>https://rickyjanuari.com/tags/hexo/</loc><priority>0.85</priority></url>
+      
+
+    <url><loc>https://rickyjanuari.com/tags/gatsby/</loc><priority>0.85</priority></url>
+      
+</urlset>
